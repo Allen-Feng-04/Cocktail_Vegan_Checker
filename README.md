@@ -20,7 +20,7 @@ Why Chosen: The Edamam API provides detailed ingredient analysis, including heal
     
     -Ensure you have an internet connection.
     -You'll need the Edaman API key: https://developer.edamam.com/edamam-nutrition-api
-    (So far its already included in the code)
+    (So far it is already included in the code)
       
 **How to Use the Feature:**
   1. When prompted, enter the name of your favorite cocktail (e.g., "Margarita").
