@@ -18,6 +18,7 @@ Why Chosen: The Edamam API provides detailed ingredient analysis, including heal
 **Setup:**
 
 -Ensure you have an internet connection.
+
 -You'll need API keys for both TheCocktailDB and Edamam APIs (so far they are included in the program already):
 
     -TheCocktailDB: Register for free here (thecocktaildb.com) to get your API key.
