@@ -4,6 +4,7 @@
 For vegans and those who are curious, this tool allows you to check whether your favorite cocktail is vegan-friendly. The feature collects a list of ingredients from the cocktail you specify and checks whether each ingredient is vegan or not using a combination of APIs. If one or more ingredients are not vegan, the cocktail will be marked as non-vegan. If all ingredients are vegan, you can enjoy your cocktail with peace of mind.
 
 **2. APIs Used:**
+
 TheCocktailDB API:
 URL: https://www.thecocktaildb.com/api.php
 Purpose: Fetches the list of ingredients from your favorite cocktail.
